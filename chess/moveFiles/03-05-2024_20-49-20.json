@@ -1,0 +1,7 @@
+{
+ "turn1": {"startMove": "d1", "endMove": "d3", "promotionPiece": "E" }
+, "turn2": {"startMove": "e6", "endMove": "e4", "promotionPiece": "E" }
+, "turn3": {"startMove": "d3", "endMove": "e4", "promotionPiece": "E" }
+, "turn4": {"startMove": "f7", "endMove": "e6", "promotionPiece": "E" }
+, "turn5": {"startMove": "b0", "endMove": "c2", "promotionPiece": "E" }
+}

@@ -1,0 +1,10 @@
+{
+ "turn1": {"startMove": "c1", "endMove": "c3", "promotionPiece": "E" }
+, "turn2": {"startMove": "d6", "endMove": "d4", "promotionPiece": "E" }
+, "turn3": {"startMove": "c3", "endMove": "d4", "promotionPiece": "E" }
+, "turn4": {"startMove": "e6", "endMove": "e5", "promotionPiece": "E" }
+, "turn5": {"startMove": "d4", "endMove": "e5", "promotionPiece": "E" }
+, "turn6": {"startMove": "d7", "endMove": "d4", "promotionPiece": "E" }
+, "turn7": {"startMove": "e5", "endMove": "f6", "promotionPiece": "E" }
+, "turn8": {"startMove": "e7", "endMove": "f6", "promotionPiece": "E" }
+}
